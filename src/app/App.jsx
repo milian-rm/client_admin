@@ -1,7 +1,8 @@
+/*
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import reactLogo from '../assets/img/react.svg'
+import viteLogo from '../assets/img/vite.svg'
+import heroImg from '../assets/img/hero.png'
 import './App.css'
 
 function App() {
@@ -119,3 +120,13 @@ function App() {
 }
 
 export default App
+*/
+const App = () => {
+  return( 
+    <>
+      <h1>Hola mundo</h1>
+    </>
+  )
+}
+
+export default App;
